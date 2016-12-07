@@ -1,0 +1,29 @@
+	- for daily-ui-30-elements-symu example image:
+
+		overall background is gradient from:
+
+			#fff (white)
+			
+		TO
+
+			#eceff6 (Athens gray)
+
+
+		while backgrounds of internal elements are
+
+			#fff (white)
+		TO
+
+			#f9fbfd (ghost white)
+
+
+
+		THE DROP SHADOWS HAVE NO OFFSET (x or y),
+		AND ARE #e5eaf5 (glitter) /  #e1e7f5 (lavendar) COLORED
+
+
+		Other common colors are:
+
+			- #f6f8fe (zircon)
+			- #fafbfd (alabaster)
+			- #fffffb (romance)

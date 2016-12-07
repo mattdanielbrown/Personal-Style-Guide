@@ -31,3 +31,10 @@ This is intended to be an overarching collection of guidelines, documentation, e
     - etc.
   - Possibly the only concrete component for the design portion will be *how I turn design into code*.
 
+  
+  ## Resources
+  
+  ### Inspiration
+  
+  #### Design
+  	- [Unity Interactive](https://dribbble.com/UnityInteractive) (Dribble Portfolio)
